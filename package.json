@@ -1,0 +1,40 @@
+{
+  "_from": "git+https://gitlab.com/ictduc/rn-shadow.git",
+  "_id": "react-native-shadow-android@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-shadow-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://gitlab.com/ictduc/rn-shadow.git",
+    "rawSpec": "https://gitlab.com/ictduc/rn-shadow.git",
+    "saveSpec": "git+https://gitlab.com/ictduc/rn-shadow.git",
+    "fetchSpec": "https://gitlab.com/ictduc/rn-shadow.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.com/ictduc/rn-shadow.git#5a9dd15584ccd773a5d19b0378123659f6881123",
+  "_spec": "https://gitlab.com/ictduc/rn-shadow.git",
+  "_where": "/Users/nguyenduc/react/ui",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-shadow-android",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
